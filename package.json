@@ -10,7 +10,7 @@
     "url": "git://github.com/JoshuaWise/better-sqlite3.git"
   },
   "dependencies": {
-    "bindings": "^1.5.0",
+    "bindings": "https://github.com/pagoru/node-bindings",
     "prebuild-install": "^7.0.0",
     "tar": "^6.1.11"
   },
